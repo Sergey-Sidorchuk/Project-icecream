@@ -1,0 +1,18 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+@import './utils/variables';
+@import './utils/visually-hidden';
+
+@import './base/base';
+@import './base/container';
+
+@import './components/header';
+@import './components/hero';
+@import './components/product';
+@import './components/how-its-made';
+@import './components/feedback';
+@import './components/contacts';
+@import './components/footer';
